@@ -109,18 +109,5 @@ MIT License. Free to use, fork, improve. Just give credits like a scholar 😉
 
 ---
 
-### 🧠 Did We Use LangGraph?
-
-**Not yet.**  
-You used LangChain and Groq’s LLM in a basic RAG-style setup (LLM + custom prompts), not a **LangGraph Agentic Workflow**. If you want to **add LangGraph**, I can help you refactor the architecture to include multi-step agents, memory, or tools dynamically.
-
-Let me know when you want to add:
-
-- Multi-turn agent planning with LangGraph
-- Dynamic tool selection (ArxivTool, NewsAPI, PDFReader)
-- RAG chunking and citation-based responses
-
----
-
 Want a logo, banner, or badge-based version for LinkedIn or DevPost too? Say the word, boss.
 ```
