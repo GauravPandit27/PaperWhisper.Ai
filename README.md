@@ -107,7 +107,4 @@ MIT License. Free to use, fork, improve. Just give credits like a scholar 😉
 
 ```
 
----
 
-Want a logo, banner, or badge-based version for LinkedIn or DevPost too? Say the word, boss.
-```
